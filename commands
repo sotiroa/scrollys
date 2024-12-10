@@ -1,0 +1,3 @@
+git add scrollys/multifaith .pdf
+git commit -m "Add PDF file"
+git push origin main
