@@ -1,0 +1,3 @@
+git add scrollys/multifaith dialogue scrolly [Recovered]-compressed.pdf
+git commit -m "Add PDF file"
+git push origin main
